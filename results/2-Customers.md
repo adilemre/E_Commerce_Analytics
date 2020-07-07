@@ -30,6 +30,7 @@ average purchase volume and total purchase amount values by customer value based
 ![Value_based_cluster_profiles](/images/Value_based_customer_clusters.png)
 
 Conclusion
+
 First, one of the biggest marketing problems of e-commerce companies is customers, who visit websites but don't purchase 
 anything. There were 2.7mio visitors, who left the website without shopping. Why did those customers visit your website ? 
 What did they look for ? Why didn’t they buy one of the products that they viewed ? Didn’t they find what they were 
